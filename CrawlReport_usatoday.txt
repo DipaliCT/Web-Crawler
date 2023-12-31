@@ -1,0 +1,46 @@
+Name: Dipali Telavane
+USC ID: 1487027774
+News site crawled: usatoday.com
+Number of threads: 7
+
+Fetch Statistics
+================
+# fetches attempted: 20000
+# fetches succeeded: 18546
+# fetches failed or aborted: 1454
+
+Outgoing URLs:
+==============
+Total URLs extracted: 3316991
+# unique URLs extracted: 1910794
+# unique URLs within News Site: 865396
+# unique URLs outside News Site: 1045398
+
+Status Codes:
+=============
+200 OK: 18546
+301 Moved Permanently: 597
+302 Found: 780
+303 See Other: 2
+307 Temporary Redirect: 1
+308 Permanent Redirect: 2
+401 Unauthorized: 3
+404 Not Found: 64
+500 Internal Server Error: 4
+502 Bad Gateway: 1
+
+File Sizes:
+===========
+< 1KB: 7
+1KB ~ <10KB: 1912
+10KB ~ <100KB: 1732
+100KB ~ <1MB: 14459
+>= 1MB: 38
+
+Content Types:
+==============
+image/jpeg: 1429
+image/png: 61
+image/svg+xml: 6
+image/webp: 1327
+text/html: 15325
